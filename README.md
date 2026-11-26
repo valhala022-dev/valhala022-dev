@@ -5,6 +5,10 @@
 
 <br/>
 
+<img src="assets/kali-logo.svg" width="85%" alt="Animated Kali Linux Logo"/>
+
+<br/>
+
 <a href="https://github.com/valhala022-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00F0FF&background=00000000&center=true&vCenter=true&width=720&height=50&lines=%3E+INITIALIZING+NEURAL+INTERFACE...;%3E+BYPASSING+FIREWALL...+%5BOK%5D;%3E+SCANNING+USER+PROFILE...;%3E+SUBJECT+IDENTIFIED%3A+valhala022-dev;%3E+ACCESS+GRANTED+%E2%9C%94;%3E+WELCOME+TO+MY+SYSTEM" alt="Typing SVG" />
 </a>
@@ -13,6 +17,7 @@
 
 [![SYSTEM STATUS](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=020617)](https://github.com/valhala022-dev)
 ![CORE](https://img.shields.io/badge/CORE-ACTIVE-39ff14?style=for-the-badge&labelColor=020617)
+![OS](https://img.shields.io/badge/OS-KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=020617)
 ![NETWORK](https://img.shields.io/badge/NETWORK-ENCRYPTED-ff00ff?style=for-the-badge&labelColor=020617)
 ![SCANS](https://komarev.com/ghpvc/?username=valhala022-dev&label=SCANS&color=00f0ff&style=for-the-badge&labelColor=020617)
 
